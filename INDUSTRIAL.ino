@@ -8,10 +8,10 @@
 #include <addons/TokenHelper.h>
 #include <ArduinoJson.h>
 
-#define API_KEY "AIzaSyAQ-M3EqTGCDGXP-cM0GKRWdcErW3NS2ng"
-#define FIREBASE_PROJECT_ID "industrial-8d6ee"
+#define API_KEY "AIzaSyAQ-M3EXP-cM0GKRWdcErW3NS2ng"
+#define FIREBASE_PROJECT_ID "industrial-8ee"
 
-#define USER_EMAIL "talalmustafa725@gmail.com"
+#define USER_EMAIL "talal@gmail.com"
 #define USER_PASSWORD "987654321ab"
 
 #define SCREEN_WIDTH 128
